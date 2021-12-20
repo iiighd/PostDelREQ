@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "504102559854",
+    "project_id": "putdeletkotlin",
+    "storage_bucket": "putdeletkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504102559854:android:66aaf806fdea43ff62067f",
+        "android_client_info": {
+          "package_name": "com.example.putdelapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504102559854-dohpq3f4iablk8ommt8tkn5g9jhtho9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvl1K34gvAXpBJ9Q9pdJH-6QZ_3FrJGbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504102559854-dohpq3f4iablk8ommt8tkn5g9jhtho9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504102559854:android:21947d116aa75c5462067f",
+        "android_client_info": {
+          "package_name": "com.example.youtubeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504102559854-dohpq3f4iablk8ommt8tkn5g9jhtho9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvl1K34gvAXpBJ9Q9pdJH-6QZ_3FrJGbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504102559854-dohpq3f4iablk8ommt8tkn5g9jhtho9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
